@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\c#nivel3\nivel3cris-main\dominio\bin\Release\dominio.dll
+C:\Users\Usuario\Documents\c#nivel3\nivel3cris-main\dominio\bin\Release\dominio.pdb
+C:\Users\Usuario\Documents\c#nivel3\nivel3cris-main\dominio\obj\Release\dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\c#nivel3\nivel3cris-main\dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\c#nivel3\nivel3cris-main\dominio\obj\Release\dominio.dll
+C:\Users\Usuario\Documents\c#nivel3\nivel3cris-main\dominio\obj\Release\dominio.pdb

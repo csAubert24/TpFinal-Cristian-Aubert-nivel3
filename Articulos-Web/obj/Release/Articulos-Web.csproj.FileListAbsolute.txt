@@ -1,0 +1,2 @@
+C:\Users\Usuario\Documents\c#nivel3\nivel3cris-main\Articulos-Web\obj\Release\Articulos-Web.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\c#nivel3\nivel3cris-main\Articulos-Web\obj\Release\Articulos-Web.csproj.CoreCompileInputs.cache

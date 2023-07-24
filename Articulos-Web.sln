@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Articulos-Web", "Articulos-Web\Articulos-Web.csproj", "{F00F9C9E-FF61-4001-BCD8-35DE78E9031A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bussines", "bussines\bussines.csproj", "{F03B2316-E57E-401D-8018-D8128244CD8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{895DC6F8-4EA7-45FB-BF15-E980415E2175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00F9C9E-FF61-4001-BCD8-35DE78E9031A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00F9C9E-FF61-4001-BCD8-35DE78E9031A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00F9C9E-FF61-4001-BCD8-35DE78E9031A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00F9C9E-FF61-4001-BCD8-35DE78E9031A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03B2316-E57E-401D-8018-D8128244CD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03B2316-E57E-401D-8018-D8128244CD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03B2316-E57E-401D-8018-D8128244CD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03B2316-E57E-401D-8018-D8128244CD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895DC6F8-4EA7-45FB-BF15-E980415E2175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895DC6F8-4EA7-45FB-BF15-E980415E2175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895DC6F8-4EA7-45FB-BF15-E980415E2175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895DC6F8-4EA7-45FB-BF15-E980415E2175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E59ABAC-E30E-4840-8BB3-F596B609250A}
+	EndGlobalSection
+EndGlobal
